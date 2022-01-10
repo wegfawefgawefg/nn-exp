@@ -1,0 +1,8 @@
+/// Asynchronous hebbian learning.
+///
+
+- define neurons
+- define synapses
+- - define conditions for modifying synapses
+
+- define learning rules etc
